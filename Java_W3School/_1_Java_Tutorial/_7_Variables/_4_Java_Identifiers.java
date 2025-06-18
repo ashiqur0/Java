@@ -15,7 +15,7 @@ Reserved words (like Java keywords, such as int or boolean) cannot be used as na
 
 package Java_W3School._1_Java_Tutorial._7_Variables;
 
-public class Java_Identifiers {
+public class _4_Java_Identifiers {
     public static void main(String[] args) {
         int age = 25;
         int sum = 20;
