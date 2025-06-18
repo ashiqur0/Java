@@ -1,6 +1,6 @@
 /*
- * Java : First Program
- */
+Java : First Program
+*/
 
 package Java_W3School._1_Java_Tutorial._1_Java_Home;
 public class Main {
