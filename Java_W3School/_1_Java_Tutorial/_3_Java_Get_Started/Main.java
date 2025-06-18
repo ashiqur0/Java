@@ -1,6 +1,6 @@
 /*
 Java : How To Compile and Run Java Program
-Comple : javac file_name.java
+Compile : javac file_name.java
 Run : java file_name
 */
 
