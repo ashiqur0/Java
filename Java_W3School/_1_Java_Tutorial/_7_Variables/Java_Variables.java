@@ -21,5 +21,6 @@ public class Java_Variables {
 
         // Final Variables : the value is constant (unchangable)
         final int marks = 98;
+        System.out.println(name + " " + roll + " " + gpa + " " + grade + " " + isPassed + " " + marks);
     }
 }
