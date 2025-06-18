@@ -1,10 +1,10 @@
 /*
 Java : Multiple Variable
-*/
+*/ 
 
 package Java_W3School._1_Java_Tutorial._7_Variables;
 
-public class Multiple_Variables {
+public class _3_Multiple_Variables {
     public static void main(String[] args) {
         // Declare Many Variable
         int x = 10;
