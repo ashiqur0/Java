@@ -1,5 +1,5 @@
 /*
-Java Operators : Comparison Operators
+Java : Java Operators : Comparison Operators
     Arithmetic Operators:
     Assignment Operators:
     Comparison Operators: 
@@ -13,7 +13,6 @@ Java Operators : Comparison Operators
     Logical Operators: 
     Bitwise Operators: 
 */
-
 
 package Java_W3School._1_Java_Tutorial._10_Operators;
 
