@@ -4,6 +4,8 @@ Escape Characters   ->  result  ->  Description
         \'                 '        single quote
         \"                 '        double quote
         \\                 '        backslash
+        \n                          new line
+        \t                          tab
 */
 
 package Java_W3School._1_Java_Tutorial._11_Strings;
