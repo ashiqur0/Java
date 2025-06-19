@@ -34,5 +34,11 @@ public class _2_Numbers {
         // double : Stores fractional numbers. Sufficient for storing 15 to 16 decimal digits
         double myDoubleNum = 3.141590000001;
         System.out.println(myDoubleNum);
+
+        // Scientific Number : 
+        float myF_ScNum = 35e3f;
+        double myScNum = 12e4d;
+        System.out.println(myF_ScNum);
+        System.out.println(myScNum);
     }
 }
