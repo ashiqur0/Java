@@ -27,7 +27,7 @@ public class _2_Numbers {
         System.out.println(myLongNum);
 
         // Floating point types : 
-        // float : float : Stores fractional numbers. Sufficient for storing 6 to 7 decimal digits
+        // float : Stores fractional numbers. Sufficient for storing 6 to 7 decimal digits
         float myFloatNum = 2.99f;
         System.out.println(myFloatNum);
 
