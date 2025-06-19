@@ -2,7 +2,6 @@
 Java String : String Basics
 */
 
-
 package Java_W3School._1_Java_Tutorial._11_Strings;
 
 public class _1_String {
