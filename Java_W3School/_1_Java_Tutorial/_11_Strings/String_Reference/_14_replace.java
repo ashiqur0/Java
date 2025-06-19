@@ -1,6 +1,6 @@
 /*
 String Reference : replace() method
-replace() : replace a character to another
+replace() : searches a string for a specified character, and returns a new string where the specified character(s) are replaced.
 */
 
 package Java_W3School._1_Java_Tutorial._11_Strings.String_Reference;
