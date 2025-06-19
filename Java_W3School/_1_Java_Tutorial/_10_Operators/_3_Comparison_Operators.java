@@ -1,5 +1,5 @@
 /*
-Java : Java Operators : Comparison Operators
+Java Operators : Comparison Operators
     Arithmetic Operators:
     Assignment Operators:
     Comparison Operators: 
