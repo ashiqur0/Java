@@ -1,7 +1,7 @@
 /*
 Java : Type Casting
 Widening Type Casting : byte -> short -> char -> int -> long -> float -> double
-Narrowing Type Casting : double -> float -> long -> int -> char -> short -> byte
+Narrowing Type Casting : double -> float -> long -> int -> char -> short -> byte 
 */
 
 package Java_W3School._1_Java_Tutorial._9_Type_Casting;
