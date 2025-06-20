@@ -23,12 +23,12 @@ public class _2_Numbers {
         System.out.println(myIntNum);
 
         // long : Stores whole numbers from -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
-        long myLongNum = 1000000000;
-        System.out.println(myLongNum);
+        long myLongNum = 1000000000000000l; // added 'l' to specify long value
+        System.out.println("Long value: " + myLongNum);
 
         // Floating point types : 
         // float : Stores fractional numbers. Sufficient for storing 6 to 7 decimal digits
-        float myFloatNum = 2.99f;
+        float myFloatNum = 2.99f;           // added 'f' to specify float value
         System.out.println(myFloatNum);
 
         // double : Stores fractional numbers. Sufficient for storing 15 to 16 decimal digits
