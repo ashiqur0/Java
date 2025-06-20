@@ -10,12 +10,16 @@ double doubleNum: 8 byte
 
 char charNum    : 2 byte
 boolean bool    : 1 byte
+
+literal         : integer literal, character literal, string literal etc
 */
 
 package Java_Telusko._2_data_types;
 
 public class _1_data_types {
     public static void main(String[] args) {
+
+        // data_type variable_name = literal (integer literal, character literal etc)
         byte byteNum = 127;
         short shortNum = 32665;
         int intNum = 1013475938;
