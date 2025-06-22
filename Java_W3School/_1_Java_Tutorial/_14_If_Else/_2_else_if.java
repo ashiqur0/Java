@@ -1,6 +1,6 @@
 /*
 Java if-else : Java condition and if else statement
-if-else: execute first operation if the statement is true, 2nd otherwise
+if-else: execute first operation if the statement is true, 2nd otherwise 
 */
 
 package Java_W3School._1_Java_Tutorial._14_If_Else;
