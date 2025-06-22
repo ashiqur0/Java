@@ -5,8 +5,6 @@ Switch : used to check many expression at a time
 
 package Java_W3School._1_Java_Tutorial._15_Switch_case;
 
-import java.util.Scanner;
-
 public class _1_switch {
     public static void main(String[] args) {
         int day = 7;
