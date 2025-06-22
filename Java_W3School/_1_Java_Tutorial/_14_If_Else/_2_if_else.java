@@ -5,7 +5,7 @@ if-else: execute first operation if the statement is true, 2nd otherwise
 
 package Java_W3School._1_Java_Tutorial._14_If_Else;
 
-public class _2_else_if {
+public class _2_if_else {
     public static void main(String[] args) {
         int x = 4;
         int y = 5;
