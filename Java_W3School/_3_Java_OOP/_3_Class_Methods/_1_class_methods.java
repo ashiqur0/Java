@@ -8,7 +8,7 @@ package Java_W3School._3_Java_OOP._3_Class_Methods;
 
 public class _1_class_methods {
 
-    public static void myMethod() {
+    static void myMethod() {
         System.out.println("from class method");
     }
 
