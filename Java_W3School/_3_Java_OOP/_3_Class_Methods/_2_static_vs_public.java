@@ -17,5 +17,8 @@ public class _2_static_vs_public {
     public static void main(String[] args) {
         myMethod();
         // myMethod2(); // compiler error due to access public mehtod must need to create an instance ot access.
+
+        _2_static_vs_public obj = new _2_static_vs_public();
+        obj.myMethod2(); // now it is accessible
     }
 }
