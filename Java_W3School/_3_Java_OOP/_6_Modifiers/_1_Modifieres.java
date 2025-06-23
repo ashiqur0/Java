@@ -29,13 +29,14 @@ volatile: The value of an attribute is not cached thread-locally, and is always 
 package Java_W3School._3_Java_OOP._6_Modifiers;
 
 public class _1_Modifieres {
-    final int x = 10;
-    final double PI = 3.14;
+    public int x = 10;
+    public double PI = 3.14;
 
     public static void main(String[] args) {
         _1_Modifieres obj = new _1_Modifieres();
-        // obj.x = 100;    // generates an error: final value cannot be changed
-        // obj.PI = 2.90;    // generates an error: final value cannot be changed
-        System.out.println(obj.x);
+        obj.x = 100;
+        obj.PI = 2.90;
+        System.out.println(obj.x);  // 100
+        System.out.println(obj.PI); // 2.90
     }
 }
