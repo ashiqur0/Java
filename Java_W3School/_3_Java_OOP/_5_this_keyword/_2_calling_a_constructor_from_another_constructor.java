@@ -10,8 +10,8 @@ public class _2_calling_a_constructor_from_another_constructor {
     public _2_calling_a_constructor_from_another_constructor(String name) {
         this(23, name); // refering the current class constructor with 2 parameter value
     }
-    public _2_calling_a_constructor_from_another_constructor(int roll, String name) {
-        this.batch = roll;
+    public _2_calling_a_constructor_from_another_constructor(int batch, String name) {
+        this.batch = batch;
         this.name = name;
     }
 
