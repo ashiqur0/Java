@@ -12,11 +12,19 @@ public class _3_static {
     static void printInfo() {
         System.out.println(num + " " + PI);
     }
+    
+    public void info() {
+        System.out.println(num + " " + PI);
+    }
+
     public static void main(String[] args) {
         printInfo();
 
         num = 40;
         PI = 3.22;
         System.out.println(num + " " + PI);    // accessible without creating an 
+
+        _3_static obj = new _3_static();
+        obj.info();                             // public method need instance to use
     }
 }
