@@ -1,6 +1,7 @@
 /*
 Java OOP [Modifieres] : static
-final: attributes or method can not be override / modified
+static: attributes and method belongs to the class rather than an objects.
+modifieres and attribute of a class can be assessible without creating instance
 */
 
 package Java_W3School._3_Java_OOP._6_Modifiers;
