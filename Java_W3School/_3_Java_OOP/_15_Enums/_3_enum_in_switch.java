@@ -1,8 +1,9 @@
 /*
-Java OOP : Enums: enum in switch statement
+Java Enums: enum in switch statement
 */
 
 package Java_W3School._3_Java_OOP._15_Enums;
+
 enum Level {
     LOW,
     MEDIUM, 
