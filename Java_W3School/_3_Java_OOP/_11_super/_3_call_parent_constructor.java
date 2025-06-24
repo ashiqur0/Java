@@ -16,8 +16,8 @@ class Animal3 {
 }
 
 class Dog3 extends Animal3 {
-    Dog3() {
-        super();                                    // accessing parent constructor
+    Dog3() {                                     // first statement must be super() 
+        super();                                 // accessing parent constructor. 
         System.out.println("Dog is created...");
     }
 }
