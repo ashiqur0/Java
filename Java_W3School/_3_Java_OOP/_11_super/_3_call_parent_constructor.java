@@ -24,6 +24,6 @@ class Dog3 extends Animal3 {
 
 public class _3_call_parent_constructor {
     public static void main(String[] args) {
-        Dog3 dog3 = new Dog3();
+        new Dog3();
     }
 }
