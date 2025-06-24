@@ -1,13 +1,15 @@
 /*
 Java OOP : Interfaces
 Interfaces: is a completely abstract class that is used to group related methods with empty bodies
+
+interface method by default abstract and public
 */
 
 package Java_W3School._3_Java_OOP._14_interfaces;
 
 interface Animal {
-    public void sound();
-    public void sleep();
+    void sound();   // interface method by default abstract and public
+    void sleep();
 }
 
 class Dog implements Animal {
