@@ -15,7 +15,7 @@ Increased security of data
 
 package Java_W3School._3_Java_OOP._7_encapsulation;
 
-class Student {
+class Student1 {
     private int roll;
     private String name;
     
@@ -38,7 +38,7 @@ class Student {
 
 public class _1_Encapsulation {
     public static void main(String[] args) {
-        Student student = new Student();
+        Student1 student = new Student1();
         
         student.setRoll(5);
         student.setName("Fahim");
