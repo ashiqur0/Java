@@ -1,5 +1,5 @@
 /*
-Java OOP : Enums: enum inside a class
+Java Enums: enum inside a class
 enum : is a special class that reperesent a group of constant (unchangable variable like final variables)
 */
 
