@@ -16,6 +16,6 @@ public class Print_Text {
 
         // print() method : print without line brake
         System.out.print("Hello World!");
-        System.out.print("I'll print on the same line.");
+        System.out.print("I'll print on the same line."); 
     }
 }
