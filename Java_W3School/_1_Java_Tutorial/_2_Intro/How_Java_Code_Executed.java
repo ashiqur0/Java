@@ -12,4 +12,4 @@ public class How_Java_Code_Executed {
     
 }
 
-// java code -> javac compiler convert it to byte code -> JVM execute the byte code 
+// java code -> javac compiler convert it to byte code -> JVM execute the byte code  
