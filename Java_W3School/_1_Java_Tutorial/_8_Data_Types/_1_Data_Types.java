@@ -1,7 +1,7 @@
 /*
-Java : Data Types
-Primitive Data Types : boolean, byte, char, short, int, long, float, double
-Non-primitive Data Types : String, arrays, classes, interfaces
+Java Data Types : Primitive and Non-primitive
+Primitive Data Types (Java built-in Data Type): boolean, byte, char, short, int, long, float, double
+Non-primitive Data Types (User Define Data Type) : String, arrays, classes, interfaces
 
 // Studied from w3 School
 boolean : Stores true or false values
