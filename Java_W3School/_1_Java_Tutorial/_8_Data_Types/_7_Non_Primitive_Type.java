@@ -1,5 +1,5 @@
 /*
-Java : Non Primitive Data Types
+Java Non Primitive Data : Non Primitive Types
 Non Primitive Data Types : are called reference type because the refer to objects
 
 Features : (studied from w3school)
