@@ -1,5 +1,5 @@
 /*
-Java : Real Life Example of Variable
+Java Variable: Real Life Example of Variable
 */
 
 package Java_W3School._1_Java_Tutorial._7_Variables;
