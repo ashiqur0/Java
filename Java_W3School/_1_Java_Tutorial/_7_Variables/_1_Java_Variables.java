@@ -5,14 +5,14 @@ package Java_W3School._1_Java_Tutorial._7_Variables;
 
 public class _1_Java_Variables {
     public static void main(String[] args) {
-        // Declaring and Creating Variables
+        // Declaring and initializing Variables
         String name = "Samiul";
         int roll = 1;
         float gpa = 3.88f;
         char grade = 'A';
         boolean isPassed = true;
 
-        // Assign new value to existign variable 
+        // Update values to existign variables
         name = "Nawshin";
         roll = 2;
         gpa = 3.78f;
