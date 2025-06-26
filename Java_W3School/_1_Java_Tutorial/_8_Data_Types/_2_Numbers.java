@@ -1,5 +1,5 @@
 /*
-Java : Numbers
+Java Numbers : Integer Type and Floating Poin Type
 Primitive number types are divided into two groups : Integer types and Floating point types 
 Integer types : byte, short, int, long
 Floating point types : float, double
