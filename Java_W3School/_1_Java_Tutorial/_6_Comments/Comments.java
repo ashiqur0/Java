@@ -1,5 +1,5 @@
 /*
-Java : Java Comments
+Java Comments: Single and Multiline Comments
 Comments : Comments can be explain java codes and to make it more readable. It can also be used to prevent execution when testing alternative code
 */
 
