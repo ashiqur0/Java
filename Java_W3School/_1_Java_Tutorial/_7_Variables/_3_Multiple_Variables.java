@@ -1,5 +1,5 @@
 /*
-Java : Multiple Variable
+Java Multiple Variable : One-valued and Multi-valued Variable
 */ 
 
 package Java_W3School._1_Java_Tutorial._7_Variables;
