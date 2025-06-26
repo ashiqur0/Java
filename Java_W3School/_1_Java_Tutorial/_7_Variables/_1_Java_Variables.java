@@ -1,5 +1,5 @@
 /*
-Java : Java Variables
+Java Variables : Declare, Initialize, and Update
 */ 
 package Java_W3School._1_Java_Tutorial._7_Variables;
 
