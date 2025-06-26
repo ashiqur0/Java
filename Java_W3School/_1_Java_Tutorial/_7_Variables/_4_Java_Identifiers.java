@@ -1,5 +1,5 @@
 /*
-Java : Java Identifiers
+Java Identifiers: Rules of using variables, Method name and Class Name
 Identifiers : all variable name must be identified with unique name. These unique name is called identifiers
 Identifiers can be short names (like x and y) or more descriptive names (age, sum, totalVolume).
 Note: It is recommended to use descriptive names in order to create understandable and maintainable code:
