@@ -1,5 +1,5 @@
 /*
-Java : Boolean Types
+Java Boolean Types : True and False Type Data
 When need to store vaue like, on/off, yes/no, true/false
 */
 
