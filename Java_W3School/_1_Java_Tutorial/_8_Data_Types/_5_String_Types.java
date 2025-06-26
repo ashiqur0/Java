@@ -1,5 +1,5 @@
 /*
-Java : String Types
+Java String : String Types Data
 String types : is used to store sequence of character. 
 */
 
