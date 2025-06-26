@@ -1,5 +1,5 @@
 /*
-Java : Characters Types
+Java char : Characters Types
 Character types : is used to store single character. 
 */
 
