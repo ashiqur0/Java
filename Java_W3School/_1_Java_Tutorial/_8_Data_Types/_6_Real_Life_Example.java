@@ -1,5 +1,5 @@
 /*
-Java : Real Life Example of Data Types
+Java Data Types : Real Life Example of 
 */
 
 package Java_W3School._1_Java_Tutorial._8_Data_Types;
