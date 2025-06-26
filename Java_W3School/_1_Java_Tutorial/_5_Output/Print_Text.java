@@ -17,5 +17,9 @@ public class Print_Text {
         // print() method : print without line brake
         System.out.print("Hello World!");
         System.out.print("I'll print on the same line."); 
+
+        // printf() method : Java also support C programming function 
+        String str = "Hello";
+        System.out.printf("%s", str);
     }
 }
