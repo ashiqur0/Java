@@ -13,7 +13,5 @@ public class _3_Logical_Error {
         int y = 2;
         int sum = x - y;
         System.out.println("sum: " + sum);
-
-
     }
 }
