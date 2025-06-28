@@ -1,6 +1,7 @@
 /*
 Java Data Structure : List interface object inititalize by ArrayList 
 
+important methods for ArrayList: add(), get(), set(), remove(), clear(), size(), sort() --> here sort() includes in Collections class
 */
 
 package Java_W3School._6_Java_Data_Structure._3_ArrayLIst;
