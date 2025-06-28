@@ -1,7 +1,7 @@
 /*
 Java Data Structure : ArrayList
 ArrayList is resizable array that can grow as needed
-
+it allows to store elements and access them through index
 */
 
 package Java_W3School._6_Java_Data_Structure._1_Data_structure;
