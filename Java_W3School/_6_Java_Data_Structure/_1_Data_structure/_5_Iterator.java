@@ -1,5 +1,7 @@
 /*
 Java Data Structure : Iterator
+An iterator is a way to loop through elements in a data structure.
+It is called an "iterator" because "iterating" is the technical term for looping.
 */
 
 package Java_W3School._6_Java_Data_Structure._1_Data_structure;
