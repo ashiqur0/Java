@@ -1,5 +1,5 @@
 /*
-Java Data Structure : ArrayList
+Java Data Structure : Create ArrayList
 ArrayList: is like a resizable array.
 
 */
