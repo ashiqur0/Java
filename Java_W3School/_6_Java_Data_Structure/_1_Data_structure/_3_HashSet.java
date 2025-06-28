@@ -16,7 +16,8 @@ public class _3_HashSet {
         fruits.add("banana");
         fruits.add("cherry");
         fruits.add("kiwi");
+        fruits.add("kiwi");       // HashSet ignore duplicate
 
-        System.out.println(fruits);
+        System.out.println(fruits); // [apple, banana, cherry, kiwi]
     }
 }
