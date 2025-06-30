@@ -14,7 +14,11 @@ public class _4_remove_elements {
         nums.add(30);
         nums.add(40);
 
-        nums.remove(10);
+        nums.remove(10);        // remove single element
         nums.forEach(n -> System.out.print(n + " "));
+        System.out.println();
+
+        nums.clear();             // remove all elements
+        System.out.println(nums);
     }
 }
