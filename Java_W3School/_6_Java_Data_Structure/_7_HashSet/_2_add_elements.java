@@ -12,6 +12,7 @@ public class _2_add_elements {
         nums.add(20);
         nums.add(25);
         nums.add(30);
+        nums.add(25);   // duplicate will ignored
 
         nums.forEach(n -> System.out.print(n + " "));
     }
