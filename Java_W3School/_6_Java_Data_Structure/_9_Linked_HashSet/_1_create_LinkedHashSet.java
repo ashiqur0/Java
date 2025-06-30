@@ -1,6 +1,6 @@
 /*
 LinkedHashSet : Create LinkedHashSet
-LinkedHashSet is a collection of unique elements, maintain insertin sequence.
+Use LinkedHashSet when you want a set that does not allow duplicates and keeps the original insertion order.
 */
 
 package Java_W3School._6_Java_Data_Structure._9_Linked_HashSet;
