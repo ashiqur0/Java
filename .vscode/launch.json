@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Traverse",
+            "request": "launch",
+            "mainClass": "Java_Telusko.DSA.Arrays.Traverse",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
             "name": "Inner_1_BubbleSort",
             "request": "launch",
             "mainClass": "Java_Telusko.DSA.Sorting_Algorithm.Inner_1_BubbleSort",
