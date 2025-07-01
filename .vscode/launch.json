@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Insert",
+            "request": "launch",
+            "mainClass": "Java_Telusko.DSA.Arrays.Insert",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
             "name": "Search",
             "request": "launch",
             "mainClass": "Java_Telusko.DSA.Arrays.Search",
