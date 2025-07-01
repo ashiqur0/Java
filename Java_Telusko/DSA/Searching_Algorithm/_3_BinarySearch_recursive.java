@@ -1,8 +1,8 @@
- /*
-DSA : BinarySearch Recursive 
+/*
+DSA : BinarySearch Recursive
 */
 
-package Java_Telusko.DSA;
+package Java_Telusko.DSA.Searching_Algorithm;
 
 public class _3_BinarySearch_recursive {
     public static void main(String[] args) {
