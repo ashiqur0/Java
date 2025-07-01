@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Inner_1_BubbleSort",
+            "request": "launch",
+            "mainClass": "Java_Telusko.DSA.Sorting_Algorithm.Inner_1_BubbleSort",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_BubbleSort",
+            "request": "launch",
+            "mainClass": "Java_Telusko.DSA.Sorting_Algorithm._1_BubbleSort",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_BubbleSort",
+            "request": "launch",
+            "mainClass": "_1_BubbleSort",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
             "name": "_3_BinarySearch_recursive",
             "request": "launch",
             "mainClass": "Java_Telusko.DSA._3_BinarySearch_recursive",
