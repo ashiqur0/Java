@@ -1,8 +1,8 @@
 /*
-DSA : BinarySearch
+DSA : BinarySearch 
 */
 
-package Java_Telusko.DSA;
+package Java_Telusko.DSA.Searching_Algorithm;
 
 public class _2_BinarySearch {
     public static void main(String[] args) {
