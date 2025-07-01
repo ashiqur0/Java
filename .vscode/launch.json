@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "_2_BinarySearch",
+            "request": "launch",
+            "mainClass": "Java_Telusko.DSA._2_BinarySearch",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
