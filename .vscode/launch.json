@@ -1,0 +1,1421 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "_1_LinearSearch",
+            "request": "launch",
+            "mainClass": "Java_Telusko.DSA._1_LinearSearch",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_variables",
+            "request": "launch",
+            "mainClass": "Java_Telusko._1_variables._1_variables",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_data_types",
+            "request": "launch",
+            "mainClass": "Java_Telusko._2_data_types._1_data_types",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_type_conversion_casting_promotion",
+            "request": "launch",
+            "mainClass": "Java_Telusko._2_data_types._2_type_conversion_casting_promotion",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_while",
+            "request": "launch",
+            "mainClass": "Java_Telusko._5_loops._1_while",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_class_object",
+            "request": "launch",
+            "mainClass": "Java_Telusko._6_OOP._1_class_object",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_array",
+            "request": "launch",
+            "mainClass": "Java_Telusko._7_array._1_array",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_array_with_object",
+            "request": "launch",
+            "mainClass": "Java_Telusko._7_array._2_array_with_object",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_List_ArrayList",
+            "request": "launch",
+            "mainClass": "Java_Telusko.collection._1_List_ArrayList",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_Map_HashMap",
+            "request": "launch",
+            "mainClass": "Java_Telusko.collection._2_Map_HashMap",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_Arithmetic_Operators",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._10_Operators._1_Arithmetic_Operators",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_Assignment_Operators",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._10_Operators._2_Assignment_Operators",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_3_Comparison_Operators",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._10_Operators._3_Comparison_Operators",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_4_Logical_Operators",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._10_Operators._4_Logical_Operators",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_10_isEmpty",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._11_Strings.String_Reference._10_isEmpty",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_11_join",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._11_Strings.String_Reference._11_join",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_12_lastIndexOf",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._11_Strings.String_Reference._12_lastIndexOf",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_13_Length",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._11_Strings.String_Reference._13_Length",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_14_replace",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._11_Strings.String_Reference._14_replace",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_15_split",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._11_Strings.String_Reference._15_split",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_16_startsWith",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._11_Strings.String_Reference._16_startsWith",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_17_subSequence",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._11_Strings.String_Reference._17_subSequence",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_18_substring",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._11_Strings.String_Reference._18_substring",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_19_toCharArray",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._11_Strings.String_Reference._19_toCharArray",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_charAt",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._11_Strings.String_Reference._1_charAt",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_20_toLowerCase",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._11_Strings.String_Reference._20_toLowerCase",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_21_toString",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._11_Strings.String_Reference._21_toString",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_22_toUpperCase",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._11_Strings.String_Reference._22_toUpperCase",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_23_trim",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._11_Strings.String_Reference._23_trim",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_24_valueOf",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._11_Strings.String_Reference._24_valueOf",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_concat",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._11_Strings.String_Reference._2_concat",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_3_contains",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._11_Strings.String_Reference._3_contains",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_4_endsWith",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._11_Strings.String_Reference._4_endsWith",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_5_equals",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._11_Strings.String_Reference._5_equals",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_6_equalsIgnoreCase",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._11_Strings.String_Reference._6_equalsIgnoreCase",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_7_format",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._11_Strings.String_Reference._7_format",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_8_getBytes",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._11_Strings.String_Reference._8_getBytes",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_9_indexOf",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._11_Strings.String_Reference._9_indexOf",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_String",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._11_Strings._1_String",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_Concatination",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._11_Strings._2_Concatination",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_3_Number_and_String",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._11_Strings._3_Number_and_String",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_4_Special_Character",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._11_Strings._4_Special_Character",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_10_round",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._12_Math._10_round",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_max",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._12_Math._1_max",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_min",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._12_Math._2_min",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_3_sqrt",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._12_Math._3_sqrt",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_4_abs",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._12_Math._4_abs",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_5_random",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._12_Math._5_random",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_6_ceil",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._12_Math._6_ceil",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_7_floor",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._12_Math._7_floor",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_8_pow",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._12_Math._8_pow",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_9_rint",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._12_Math._9_rint",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_booleans",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._13_Booleans._1_booleans",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_if",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._14_If_Else._1_if",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_if_else",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._14_If_Else._2_if_else",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_3_else_if",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._14_If_Else._3_else_if",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_4_short_hand_if",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._14_If_Else._4_short_hand_if",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_5_real_life_example",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._14_If_Else._5_real_life_example",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_switch",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._15_Switch_case._1_switch",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_while(1)",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._16_While_loop._1_while",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_do_while",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._16_While_loop._2_do_while",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_3_real_life_example",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._16_While_loop._3_real_life_example",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_for",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._17_For_Loop._1_for",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_nested_for",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._17_For_Loop._2_nested_for",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_3_for_each",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._17_For_Loop._3_for_each",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_4_real_life_example",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._17_For_Loop._4_real_life_example",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "break_continue",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._18_Break_Continue.break_continue",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_array(1)",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._19_Arrays._1_array",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_loop_through_the_array",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._19_Arrays._2_loop_through_the_array",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_3_real_life_example(1)",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._19_Arrays._3_real_life_example",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_4_multi_dimentional_array",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._19_Arrays._4_multi_dimentional_array",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._1_Home.Main",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._3_Java_Get_Started.Main",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._4_Syntax.Main",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "Print_Numbers",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._5_Output.Print_Numbers",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "Print_Text",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._5_Output.Print_Text",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "Comments",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._6_Comments.Comments",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_Java_Variables",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._7_Variables._1_Java_Variables",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_Print_Variable",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._7_Variables._2_Print_Variable",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_3_Multiple_Variables",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._7_Variables._3_Multiple_Variables",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_4_Java_Identifiers",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._7_Variables._4_Java_Identifiers",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_5_Real_Life_Example",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._7_Variables._5_Real_Life_Example",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_Data_Types",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._8_Data_Types._1_Data_Types",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_Numbers",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._8_Data_Types._2_Numbers",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_3_Boolean_Types",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._8_Data_Types._3_Boolean_Types",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_4_Characters",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._8_Data_Types._4_Characters",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_5_String_Types",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._8_Data_Types._5_String_Types",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_6_Real_Life_Example",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._8_Data_Types._6_Real_Life_Example",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_7_Non_Primitive_Type",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._8_Data_Types._7_Non_Primitive_Type",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "Type_Casting",
+            "request": "launch",
+            "mainClass": "Java_W3School._1_Java_Tutorial._9_Type_Casting.Type_Casting",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_Java_methods",
+            "request": "launch",
+            "mainClass": "Java_W3School._2_Java_Methods._1_Methods._1_Java_methods",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_method_parameters",
+            "request": "launch",
+            "mainClass": "Java_W3School._2_Java_Methods._2_Methods_Parameters._1_method_parameters",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_method_with_if",
+            "request": "launch",
+            "mainClass": "Java_W3School._2_Java_Methods._2_Methods_Parameters._2_method_with_if",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_3_return_value",
+            "request": "launch",
+            "mainClass": "Java_W3School._2_Java_Methods._2_Methods_Parameters._3_return_value",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_4_method_overloading",
+            "request": "launch",
+            "mainClass": "Java_W3School._2_Java_Methods._2_Methods_Parameters._4_method_overloading",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_5_scope",
+            "request": "launch",
+            "mainClass": "Java_W3School._2_Java_Methods._2_Methods_Parameters._5_scope",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_6_recursion",
+            "request": "launch",
+            "mainClass": "Java_W3School._2_Java_Methods._2_Methods_Parameters._6_recursion",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_7_recursion2",
+            "request": "launch",
+            "mainClass": "Java_W3School._2_Java_Methods._2_Methods_Parameters._7_recursion2",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_polymorphism",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._10_Polymorphism._1_polymorphism",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_super",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._11_super._1_super",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_call_parent_attribute",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._11_super._2_call_parent_attribute",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_3_call_parent_constructor",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._11_super._3_call_parent_constructor",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_inner_classes",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._12_Inner_Classes._1_inner_classes",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_private_inner",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._12_Inner_Classes._2_private_inner",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_3_static_inner",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._12_Inner_Classes._3_static_inner",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_4_outer_by_inner",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._12_Inner_Classes._4_outer_by_inner",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_abstruct",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._13_Abstruction._1_abstruct",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_interface",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._14_interfaces._1_interface",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_multiple_interface",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._14_interfaces._2_multiple_interface",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_enum",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._15_Enums._1_enum",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_enum_inside_a_class",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._15_Enums._2_enum_inside_a_class",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_scanner",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._16_User_Input._1_scanner",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_different_type_input",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._16_User_Input._2_different_type_input",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_class_object(1)",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._1_Class_Object._1_class_object",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_multiple_object",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._1_Class_Object._2_multiple_object",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_3_multiple_classes",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._1_Class_Object._3_multiple_classes",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_class_attribute",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._2_Class_Attribute._1_class_attribute",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_access_attribute",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._2_Class_Attribute._2_access_attribute",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_3_modify_attribute",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._2_Class_Attribute._3_modify_attribute",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_4_unmodifyable_attribute",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._2_Class_Attribute._4_unmodifyable_attribute",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_5_multiple_object",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._2_Class_Attribute._5_multiple_object",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_6_multiple_attribute",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._2_Class_Attribute._6_multiple_attribute",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_class_methods",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._3_Class_Methods._1_class_methods",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_static_vs_public",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._3_Class_Methods._2_static_vs_public",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_3_access_method_through_object",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._3_Class_Methods._3_access_method_through_object",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_4_multiple_class",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._3_Class_Methods._4_multiple_class",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_constructors",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._4_Constructors._1_constructors",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_constructor_parameter",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._4_Constructors._2_constructor_parameter",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_3_constructor_parameter2",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._4_Constructors._3_constructor_parameter2",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_this_keyword",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._5_this_keyword._1_this_keyword",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_calling_a_constructor_from_another_constructor",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._5_this_keyword._2_calling_a_constructor_from_another_constructor",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_Modifieres",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._6_Modifiers._1_Modifieres",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_final",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._6_Modifiers._2_final",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_3_static",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._6_Modifiers._3_static",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_4_abstract",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._6_Modifiers._4_abstract",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_Encapsulation",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._7_encapsulation._1_Encapsulation",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "practice",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._7_encapsulation.practice",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_packages",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._8_packages._1_packages",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_inheritance",
+            "request": "launch",
+            "mainClass": "Java_W3School._3_Java_OOP._9_inheritance._1_inheritance",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_Compile_time_error",
+            "request": "launch",
+            "mainClass": "Java_W3School._4_Java_Error._1_Error._1_Compile_time_error",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_runtime_error",
+            "request": "launch",
+            "mainClass": "Java_W3School._4_Java_Error._1_Error._2_runtime_error",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_3_Logical_Error",
+            "request": "launch",
+            "mainClass": "Java_W3School._4_Java_Error._1_Error._3_Logical_Error",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_print_statements",
+            "request": "launch",
+            "mainClass": "Java_W3School._4_Java_Error._2_Debugging._1_print_statements",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_check_variable_values",
+            "request": "launch",
+            "mainClass": "Java_W3School._4_Java_Error._2_Debugging._2_check_variable_values",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_Exceptions",
+            "request": "launch",
+            "mainClass": "Java_W3School._4_Java_Error._3_Exceptons._1_Exceptions",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_Exception_Handling",
+            "request": "launch",
+            "mainClass": "Java_W3School._4_Java_Error._3_Exceptons._2_Exception_Handling",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_3_Finally",
+            "request": "launch",
+            "mainClass": "Java_W3School._4_Java_Error._3_Exceptons._3_Finally",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_4_Throw",
+            "request": "launch",
+            "mainClass": "Java_W3School._4_Java_Error._3_Exceptons._4_Throw",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_files",
+            "request": "launch",
+            "mainClass": "Java_W3School._5_File_Handling._1_files",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_create_file",
+            "request": "launch",
+            "mainClass": "Java_W3School._5_File_Handling._2_create_file",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_3_write_file",
+            "request": "launch",
+            "mainClass": "Java_W3School._5_File_Handling._3_write_file",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_4_read_file",
+            "request": "launch",
+            "mainClass": "Java_W3School._5_File_Handling._4_read_file",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_5_file_info",
+            "request": "launch",
+            "mainClass": "Java_W3School._5_File_Handling._5_file_info",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_6_delete_file",
+            "request": "launch",
+            "mainClass": "Java_W3School._5_File_Handling._6_delete_file",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_7_delete_folder",
+            "request": "launch",
+            "mainClass": "Java_W3School._5_File_Handling._7_delete_folder",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_Map",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._10_Map._1_Map",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_ArrayList",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._1_Data_structure._2_ArrayList",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_3_HashSet",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._1_Data_structure._3_HashSet",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_4_HashMap",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._1_Data_structure._4_HashMap",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_5_Iterator",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._1_Data_structure._5_Iterator",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_collection_framework",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._2_Java_collections._1_collection_framework",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_List",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._2_Java_collections._2_List",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_10_different_type_ArrayList",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._3_ArrayLIst._10_different_type_ArrayList",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_11_sort_ArrayList",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._3_ArrayLIst._11_sort_ArrayList",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_12_List_Interface_ArrayList",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._3_ArrayLIst._12_List_Interface_ArrayList",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_create_ArrayList",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._3_ArrayLIst._1_create_ArrayList",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_add_elements",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._3_ArrayLIst._2_add_elements",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_3_access_elements",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._3_ArrayLIst._3_access_elements",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_4_change_elements",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._3_ArrayLIst._4_change_elements",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_5_remove_elements",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._3_ArrayLIst._5_remove_elements",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_6_clear_elements",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._3_ArrayLIst._6_clear_elements",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_7_size_ArrayList",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._3_ArrayLIst._7_size_ArrayList",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_8_loop_through_ArrayLIst",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._3_ArrayLIst._8_loop_through_ArrayLIst",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_9_foreach_loop_ArrayList",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._3_ArrayLIst._9_foreach_loop_ArrayList",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_LinkedList",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._4_LinkedList._1_LinkedList",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_sort_ArrayList",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._5_ListSorting._1_sort_ArrayList",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_sort_LinkedList",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._5_ListSorting._2_sort_LinkedList",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_3_reverse_ArrayList",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._5_ListSorting._3_reverse_ArrayList",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_4_reverse_LinkedList",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._5_ListSorting._4_reverse_LinkedList",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_5_sort_Alphabetically",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._5_ListSorting._5_sort_Alphabetically",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_Set_Interface",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._6_Set._1_Set_Interface",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_create_HashSet",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._7_HashSet._1_create_HashSet",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_add_elements(1)",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._7_HashSet._2_add_elements",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_3_check_if_element_exists",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._7_HashSet._3_check_if_element_exists",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_4_remove_elements",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._7_HashSet._4_remove_elements",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_5_HashSet_size",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._7_HashSet._5_HashSet_size",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_6_loop_through_HashSet",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._7_HashSet._6_loop_through_HashSet",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_7_others_type_HashSet",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._7_HashSet._7_others_type_HashSet",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_create_TreeSet",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._8_TreeSet._1_create_TreeSet",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_add_elements(2)",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._8_TreeSet._2_add_elements",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_3_if_element_exists",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._8_TreeSet._3_if_element_exists",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_4_remove_elements(1)",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._8_TreeSet._4_remove_elements",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_5_size_of_TreeSet",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._8_TreeSet._5_size_of_TreeSet",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_6_loop_through_TreeSet",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._8_TreeSet._6_loop_through_TreeSet",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_1_create_LinkedHashSet",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._9_Linked_HashSet._1_create_LinkedHashSet",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_2_add_elements(3)",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._9_Linked_HashSet._2_add_elements",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_3_check_if_elements_exists",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._9_Linked_HashSet._3_check_if_elements_exists",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_4_remove_elements(2)",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._9_Linked_HashSet._4_remove_elements",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_5_remove_all_elements",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._9_Linked_HashSet._5_remove_all_elements",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_6_size_of_LinkedHashSet",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._9_Linked_HashSet._6_size_of_LinkedHashSet",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
+            "name": "_7_loop_through_LInkedHashSet",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._9_Linked_HashSet._7_loop_through_LInkedHashSet",
+            "projectName": "Java_146e3530"
+        }
+    ]
+}
