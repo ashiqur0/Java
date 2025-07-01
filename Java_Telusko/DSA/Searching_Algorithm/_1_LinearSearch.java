@@ -1,8 +1,8 @@
 /*
-DSA : LinearSearch
+DSA : LinearSearch 
 */
 
-package Java_Telusko.DSA;
+package Java_Telusko.DSA.Searching_Algorithm;
 
 public class _1_LinearSearch {
     public static void main(String[] args) {
