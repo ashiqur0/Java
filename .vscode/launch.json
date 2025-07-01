@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "_3_BinarySearch_recursive",
+            "request": "launch",
+            "mainClass": "Java_Telusko.DSA._3_BinarySearch_recursive",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
             "name": "_2_BinarySearch",
             "request": "launch",
             "mainClass": "Java_Telusko.DSA._2_BinarySearch",
