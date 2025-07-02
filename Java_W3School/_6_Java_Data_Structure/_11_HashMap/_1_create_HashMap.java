@@ -1,7 +1,7 @@
 /*
 Hash Map : Create HashMap
 
-HashMap: stores key-value pair, where each key map to specific values
+HashMap: stores key-value pair, do not maintain order. where each key map to specific values
 It can stores different types of combinations. Such as, String- Integer, String-String etc.
 */
 
