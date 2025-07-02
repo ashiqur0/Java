@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "_2_InsertionSort",
+            "request": "launch",
+            "mainClass": "Java_Telusko.DSA.Sorting_Algorithm._2_InsertionSort",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
             "name": "Insert",
             "request": "launch",
             "mainClass": "Java_Telusko.DSA.Arrays.Insert",
