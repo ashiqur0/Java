@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "_7_loop_through_HashMap_keys",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._11_HashMap._7_loop_through_HashMap_keys",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
             "name": "_6_size_of_a_HashMap",
             "request": "launch",
             "mainClass": "Java_W3School._6_Java_Data_Structure._11_HashMap._6_size_of_a_HashMap",
