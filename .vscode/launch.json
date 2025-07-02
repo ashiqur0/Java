@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "_9_access_key_value",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._11_HashMap._9_access_key_value",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
             "name": "_8_access_values",
             "request": "launch",
             "mainClass": "Java_W3School._6_Java_Data_Structure._11_HashMap._8_access_values",
