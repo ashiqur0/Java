@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "_4_remove_items",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._12_TreeMap._4_remove_items",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
             "name": "_3_access_item",
             "request": "launch",
             "mainClass": "Java_W3School._6_Java_Data_Structure._12_TreeMap._3_access_item",
