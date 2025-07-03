@@ -1,5 +1,5 @@
 /*
-Hash Map : Create LinkedMap
+Hash Map : Create LinkedHashMap
 
 TreeMap: stores key-value pair, maintain insertion order
 */
