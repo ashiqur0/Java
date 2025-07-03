@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "_9_loop_through_LinkedHashMap",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._13_LinkedHashMap._9_loop_through_LinkedHashMap",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
             "name": "_8_loop_through_values",
             "request": "launch",
             "mainClass": "Java_W3School._6_Java_Data_Structure._13_LinkedHashMap._8_loop_through_values",
