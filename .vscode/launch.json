@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "_5_clear_all",
+            "request": "launch",
+            "mainClass": "Java_W3School._6_Java_Data_Structure._13_LinkedHashMap._5_clear_all",
+            "projectName": "Java_146e3530"
+        },
+        {
+            "type": "java",
             "name": "_4_remove_pair",
             "request": "launch",
             "mainClass": "Java_W3School._6_Java_Data_Structure._13_LinkedHashMap._4_remove_pair",
